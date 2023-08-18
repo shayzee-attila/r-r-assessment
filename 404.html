@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>404 Page</title>
+</head>
+<body>
+  <script>
+    const path = window.location.pathname;
+    if (path !== '/' && !path.startsWith('/r-r-assessment/')) {
+      window.location.href = '/r-r-assessment/';
+    }
+  </script>
+</body>
+</html>
