@@ -8,7 +8,7 @@ import Account from "./Account";
 import Unauthorized from "./Unauthorized";
 import { useUser } from "./UserContext";
 
-const ProtectedRoute = ({ element }) => {  // Change 'component' prop to 'element'
+const ProtectedRoute = ({ element }) => {  
   const { isLoggedIn } = useUser();
 
   if (!isLoggedIn) {

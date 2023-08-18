@@ -42,7 +42,7 @@ const Login = () => {
     setLoading(true);
 
     // Validation
-    if (email === "dj@techsa.com" && password === "P@55w0rd@1") {
+    if (email === "darryn@randrtechsa.com" && password === "P@55w0rd@1") {
       await handleLogin();
     } else {
       setError("Invalid email or password");
