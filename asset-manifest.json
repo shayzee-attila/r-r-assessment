@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/r-r-assessment/static/js/main.ccf764f8.js",
+    "main.js": "/r-r-assessment/static/js/main.0a9c88c9.js",
     "index.html": "/r-r-assessment/index.html",
-    "main.ccf764f8.js.map": "/r-r-assessment/static/js/main.ccf764f8.js.map"
+    "main.0a9c88c9.js.map": "/r-r-assessment/static/js/main.0a9c88c9.js.map"
   },
   "entrypoints": [
-    "static/js/main.ccf764f8.js"
+    "static/js/main.0a9c88c9.js"
   ]
 }
